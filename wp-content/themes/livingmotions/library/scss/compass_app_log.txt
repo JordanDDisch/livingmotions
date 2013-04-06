@@ -1,0 +1,336 @@
+2013-04-06 14:33:57 overwrite ../css/style.css 
+2013-04-06 14:34:15 overwrite ../css/style.css 
+2013-04-06 14:34:19 identical ../css/style.css 
+2013-04-06 14:47:58     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:47:58 overwrite ../css/ie.css 
+2013-04-06 14:47:59     error style.scss (Line 43: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:47:59 overwrite ../css/style.css 
+2013-04-06 14:48:00     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:00 identical ../css/ie.css 
+2013-04-06 14:48:00     error style.scss (Line 43: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:00 identical ../css/style.css 
+2013-04-06 14:48:01     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:01 identical ../css/ie.css 
+2013-04-06 14:48:01     error style.scss (Line 43: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:01 identical ../css/style.css 
+2013-04-06 14:48:02     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:02 identical ../css/ie.css 
+2013-04-06 14:48:02     error style.scss (Line 43: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:02 identical ../css/style.css 
+2013-04-06 14:48:03     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:03 identical ../css/ie.css 
+2013-04-06 14:48:04     error style.scss (Line 43: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:04 identical ../css/style.css 
+2013-04-06 14:48:19     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:19 overwrite ../css/ie.css 
+2013-04-06 14:48:20 overwrite ../css/style.css 
+2013-04-06 14:48:22     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:22 identical ../css/ie.css 
+2013-04-06 14:48:23 identical ../css/style.css 
+2013-04-06 14:48:54     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:48:54 identical ../css/ie.css 
+2013-04-06 14:48:54 identical ../css/style.css 
+2013-04-06 14:49:03     error ie.scss (Line 25: File to import not found or unreadable: 481up.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:49:03 identical ../css/ie.css 
+2013-04-06 14:49:04 identical ../css/style.css 
+2013-04-06 14:50:57 identical ../css/style.css 
+2013-04-06 14:51:05 identical ../css/style.css 
+2013-04-06 14:52:32     error style.scss (Line 19: File to import not found or unreadable: global.
+Load paths:
+  /Users/dischjordan/Desktop/Projects/livingmotions/wp-content/themes/livingmotions/library/scss
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Users/dischjordan/Downloads/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /Users/dischjordan/vendor/assets/stylesheets)
+2013-04-06 14:52:32 overwrite ../css/style.css 
+2013-04-06 14:52:53 overwrite ../css/style.css 
+2013-04-06 14:54:30 identical ../css/style.css 
+2013-04-06 15:22:49 overwrite ../css/style.css 
+2013-04-06 16:55:05 overwrite ../css/style.css 
+2013-04-06 16:55:46 overwrite ../css/style.css 
+2013-04-06 17:13:34 identical ../css/style.css 
+2013-04-06 17:15:43 overwrite ../css/style.css 
+2013-04-06 17:49:25 overwrite ../css/style.css 
+2013-04-06 17:49:36 identical ../css/style.css 
+2013-04-06 17:59:53 overwrite ../css/style.css 
+2013-04-06 18:00:15 identical ../css/style.css 
+2013-04-06 18:01:32     error style.scss (Line 188 of _base.scss: Undefined variable: "$focus".)
+2013-04-06 18:01:32 overwrite ../css/style.css 
+2013-04-06 18:02:33     error style.scss (Line 188 of _base.scss: Undefined variable: "$focus".)
+2013-04-06 18:02:33 identical ../css/style.css 
+2013-04-06 18:03:19 overwrite ../css/style.css 
+2013-04-06 18:09:24 overwrite ../css/style.css 
+2013-04-06 18:10:06 overwrite ../css/style.css 
+2013-04-06 18:10:47 overwrite ../css/style.css 
+2013-04-06 18:12:20 overwrite ../css/style.css 
+2013-04-06 18:13:49 overwrite ../css/style.css 
+2013-04-06 18:14:26 overwrite ../css/style.css 
+2013-04-06 18:15:41 overwrite ../css/style.css 
+2013-04-06 18:16:06 overwrite ../css/style.css 
+2013-04-06 18:16:29 overwrite ../css/style.css 
+2013-04-06 18:16:39 overwrite ../css/style.css 
+2013-04-06 18:16:50 identical ../css/style.css 
+2013-04-06 18:17:02 overwrite ../css/style.css 
+2013-04-06 18:17:10 overwrite ../css/style.css 
+2013-04-06 18:17:47 overwrite ../css/style.css 
+2013-04-06 18:18:01 overwrite ../css/style.css 
+2013-04-06 18:18:31 overwrite ../css/style.css 
+2013-04-06 18:20:25 overwrite ../css/style.css 
+2013-04-06 18:20:57 overwrite ../css/style.css 
+2013-04-06 18:22:05 overwrite ../css/style.css 
+2013-04-06 18:22:13 identical ../css/style.css 
+2013-04-06 18:25:25 overwrite ../css/style.css 
+2013-04-06 18:28:53 overwrite ../css/style.css 
+2013-04-06 18:29:52 overwrite ../css/style.css 
+2013-04-06 18:34:23 overwrite ../css/style.css 
+2013-04-06 18:37:13 overwrite ../css/style.css 
+2013-04-06 18:41:18 overwrite ../css/style.css 
+2013-04-06 18:48:12 overwrite ../css/style.css 
+2013-04-06 18:51:27     error style.scss (Line 179 of _base.scss: Invalid CSS after "	@include ": expected identifier, was "$font-navbar;")
+2013-04-06 18:51:28 overwrite ../css/style.css 
+2013-04-06 18:51:58     error style.scss (Line 179 of _base.scss: Invalid CSS after "    $font-navbar": expected ":", was ";")
+2013-04-06 18:51:58 overwrite ../css/style.css 
+2013-04-06 18:52:06     error style.scss (Line 181 of _base.scss: Invalid CSS after "    $font-navbar": expected ":", was "ul { ")
+2013-04-06 18:52:06 overwrite ../css/style.css 
+2013-04-06 18:52:39 overwrite ../css/style.css 
+2013-04-06 18:52:52 overwrite ../css/style.css 
+2013-04-06 18:54:25 overwrite ../css/style.css 
+2013-04-06 18:57:42 overwrite ../css/style.css 
+2013-04-06 18:59:51 identical ../css/style.css 
+2013-04-06 19:02:04 overwrite ../css/style.css 
+2013-04-06 19:07:02 overwrite ../css/style.css 
+2013-04-06 19:07:15 overwrite ../css/style.css 
+2013-04-06 19:07:27 overwrite ../css/style.css 
+2013-04-06 19:07:43 identical ../css/style.css 
+2013-04-06 19:08:20 overwrite ../css/style.css 
+2013-04-06 19:08:54 overwrite ../css/style.css 
+2013-04-06 19:09:15 overwrite ../css/style.css 
+2013-04-06 19:09:35 identical ../css/style.css 
+2013-04-06 19:24:40 overwrite ../css/style.css 
+2013-04-06 19:25:22 overwrite ../css/style.css 
+2013-04-06 19:25:37 overwrite ../css/style.css 
+2013-04-06 19:26:18 overwrite ../css/style.css 
+2013-04-06 19:26:35 overwrite ../css/style.css 
+2013-04-06 19:27:22 overwrite ../css/style.css 
+2013-04-06 19:27:41 overwrite ../css/style.css 
+2013-04-06 19:34:28 overwrite ../css/style.css 
+2013-04-06 19:34:41     error style.scss (Line 132 of _base.scss: Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was ";")
+2013-04-06 19:34:41 overwrite ../css/style.css 
+2013-04-06 19:35:02 overwrite ../css/style.css 
+2013-04-06 19:36:46 overwrite ../css/style.css 
+2013-04-06 19:37:04 overwrite ../css/style.css 
+2013-04-06 19:38:58 identical ../css/style.css 
+2013-04-06 19:39:29 overwrite ../css/style.css 
+2013-04-06 19:40:24 overwrite ../css/style.css 
+2013-04-06 19:43:37     error style.scss (Line 133 of _base.scss: Undefined variable: "$font-h1".)
+2013-04-06 19:43:37 overwrite ../css/style.css 
+2013-04-06 19:44:23 overwrite ../css/style.css 
+2013-04-06 19:45:20 overwrite ../css/style.css 
+2013-04-06 20:01:26     error style.scss (Line 287 of _base.scss: Undefined variable: "$times".)
+2013-04-06 20:01:26 overwrite ../css/style.css 
+2013-04-06 20:02:46 overwrite ../css/style.css 
+2013-04-06 20:03:47 identical ../css/style.css 
+2013-04-06 20:04:01 overwrite ../css/style.css 
+2013-04-06 20:05:25 overwrite ../css/style.css 
+2013-04-06 20:06:04 overwrite ../css/style.css 
+2013-04-06 20:06:39 overwrite ../css/style.css 
+2013-04-06 20:06:56 overwrite ../css/style.css 
+2013-04-06 20:07:38 overwrite ../css/style.css 
+2013-04-06 20:07:44     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$serif".)
+2013-04-06 20:07:44 overwrite ../css/style.css 
+2013-04-06 20:09:42     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$serif".)
+2013-04-06 20:09:42 overwrite ../css/style.css 
+2013-04-06 20:09:45     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$serif".)
+2013-04-06 20:09:45 identical ../css/style.css 
+2013-04-06 20:10:03     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$serif".)
+2013-04-06 20:10:03 identical ../css/style.css 
+2013-04-06 20:10:59     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$serif".)
+2013-04-06 20:10:59 identical ../css/style.css 
+2013-04-06 20:11:41     error style.scss (Line 92 of _normalize.scss: Undefined variable: "$sans-serif".)
+2013-04-06 20:11:41 overwrite ../css/style.css 
+2013-04-06 20:12:23 overwrite ../css/style.css 
+2013-04-06 20:14:06 overwrite ../css/style.css 
+2013-04-06 21:14:28 overwrite ../css/style.css 
+2013-04-06 21:41:21 overwrite ../css/style.css 
+2013-04-06 21:41:30 identical ../css/style.css 
+2013-04-06 21:41:47 identical ../css/style.css 
+2013-04-06 21:42:13 overwrite ../css/style.css 
+2013-04-06 21:42:50 overwrite ../css/style.css 
+2013-04-06 21:43:20 overwrite ../css/style.css 
+2013-04-06 21:47:35 overwrite ../css/style.css 
+2013-04-06 21:47:42 identical ../css/style.css 
+2013-04-06 21:48:03 overwrite ../css/style.css 

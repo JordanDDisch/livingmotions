@@ -1,0 +1,52 @@
+
+/* =Structure
+----------------------------------------------- */
+.entry-content {
+	font-family: inherit;
+}
+
+body {
+	padding: 0 2em;
+	background: red;
+}
+#page {
+	margin: 2em auto;
+	max-width: 1000px;
+	width:701px;
+	margin:auto;
+	padding: 5px 5px 5px 5px;
+	background: white;
+	overflow: hidden;
+}
+#branding hgroup {
+	margin: 0 7.6%;
+}
+#access div {
+	margin: 0 7.6%;
+	text-align: right;
+	float: right;
+}
+
+#primary, #secondary {
+	@include box(white, $blue);
+}
+
+#primary {
+	float: right;
+	width: 75%;
+}
+#content {
+
+}
+
+footer { @include box(white, red); }
+
+#secondary {
+	float: left;
+	width: 25%;
+	padding-right: 10px;
+}
+
+#secondary img {
+	max-width: 100%;
+}

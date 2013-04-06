@@ -1,0 +1,31 @@
+// Colors
+$blue: #007AAA;
+
+/* Navbar colors */
+$default-link: #777;
+$hover-link: #999;
+$active-link: #66ABC5;
+$visited-link: $default-link;
+
+/* Page content colors */
+$color-h1: $blue;
+$color-blockquote: $blue;
+
+/* Fonts */
+
+$helvetica: 'Helvetica Neue', Arial, sans-serif;
+$arial: 'Arial', sans-serif;
+$times:'TimesNewRomanPS-ItalicMT', 'Times New Roman', sans-serif;
+
+// navbar
+$font-navbar: $helvetica;
+
+// content 
+$font-content: $arial;
+$blockquote: $times;
+
+
+
+/* includes */
+@import "compass"; // Helps set up a vertical rhythm.
+@import "normalize";
