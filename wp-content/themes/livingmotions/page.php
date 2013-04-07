@@ -30,7 +30,10 @@
 
 								</footer> <!-- end article footer -->
 
-								<?php comments_template(); ?>
+							<?php
+							/* remove commentation to add comments to page
+							comments_template(); */
+							?>
 
 							</article> <!-- end article -->
 

@@ -1496,6 +1496,11 @@ override these styles for the desktop
 view.
 */
 /* end .footer-links */
+/* line 885, ../scss/_base.scss */
+.copyright {
+  font-size: .2em;
+}
+
 /*
 PRINT STYLESHEET
 Feel free to customize this. Remember to add things that won't make
