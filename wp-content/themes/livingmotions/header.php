@@ -48,7 +48,7 @@
 				<div id="inner-header" class="wrap clearfix">
 
 					<!-- Get current page object then load featured image at full size -->
-					<div> <?php echo get_the_post_thumbnail(get_page()->ID, 'full'); ?> </div>
+					<div> <?php echo the_post_thumbnail('full'); ?> </div>
 				
 					<!-- if you'd like to use the site description you can un-comment it below -->
 					<?php // bloginfo('description'); ?>
