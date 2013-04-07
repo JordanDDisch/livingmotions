@@ -852,7 +852,7 @@ and will be used across all viewports.
 /*********************
 GENERAL STYLES
 *********************/
-/* line 18, ../scss/_base.scss */
+/* line 17, ../scss/_base.scss */
 #container {
   max-width: 700px;
   margin: auto;
@@ -1496,11 +1496,6 @@ override these styles for the desktop
 view.
 */
 /* end .footer-links */
-/* line 885, ../scss/_base.scss */
-.copyright {
-  font-size: .2em;
-}
-
 /*
 PRINT STYLESHEET
 Feel free to customize this. Remember to add things that won't make
