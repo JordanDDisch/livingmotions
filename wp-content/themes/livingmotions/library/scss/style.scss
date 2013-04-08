@@ -34,6 +34,8 @@ the other stylesheets. Remember, keep it light: Speed is Important.
 // styles in base.scss
 @import "base";
 
+// styles in responsive.scss
+@import "responsive";
 
 /*
 PRINT STYLESHEET
@@ -44,3 +46,4 @@ be set to display none.
 @media print {
 	@import "print";
 }
+
