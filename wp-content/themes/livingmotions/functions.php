@@ -146,6 +146,7 @@ function bones_comments($comment, $args, $depth) {
 			<?php comment_reply_link(array_merge( $args, array('depth' => $depth, 'max_depth' => $args['max_depth']))) ?>
 		</article>
 	<!-- </li> is added by WordPress automatically -->
+	
 <?php
 } // don't remove this bracket!
 

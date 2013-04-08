@@ -15,10 +15,18 @@ and will be used across all viewports.
 GENERAL STYLES
 *********************/
 
+#content {
+	a {
+		color: black;
+		width: 20%;
+	}
+}
+
 #container {
 	max-width: 700px;
 	margin: auto;
 	background: white;
+	padding-top: 10px;
 }
 
 /********************
@@ -126,9 +134,11 @@ h1, .h1 {
 }
 
 h2, .h2 {
-	font-size: 1.75em;
-	line-height: 1.4em;
-	margin-bottom: 0.375em;
+	font-size: 1.5em;
+	line-height: 1.333em;
+	color: $color-h1;
+	font-family: $font-content;
+	font-weight: 700;
 }
 
 h3, .h3 {
@@ -167,12 +177,18 @@ the navs on the site so our css is cleaner
 and more scalable.
 */
 
-.nav {
+#nav-bar {
 	
 	border-bottom: solid 3px #ccc;
     font-family: $font-navbar;
 	font-size: .8em;
 	font-weight: bold;
+	overflow: hidden;
+	
+	.fb-like {
+		float: left;
+		padding-top: 9px;
+	}
 	
 	ul { 
 		display: inline-block;
@@ -268,6 +284,10 @@ POSTS & CONTENT STYLES
 
 #main { 
 	
+	#page-content {
+		border-bottom: solid 3px #CCC;
+	}
+	
 	width: 75%;
 	float: right;
 	padding-left: 40px;
@@ -292,6 +312,11 @@ POSTS & CONTENT STYLES
 
 #content {
 	margin-top: 2.2em;
+	
+	a {
+		color: black;
+	}
+	
 }
 
 		.hentry {

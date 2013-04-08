@@ -35,7 +35,7 @@ single-bookmarks.php
 								</header> <!-- end article header -->
 
 								<section class="entry-content clearfix">
-
+									
 									<?php the_content(); ?>
 
 								</section> <!-- end article section -->

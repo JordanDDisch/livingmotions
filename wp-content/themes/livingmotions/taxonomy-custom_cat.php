@@ -15,6 +15,7 @@ taxonomy-shoes.php
 
 <?php get_header(); ?>
 
+asdfc
 			<div id="content">
 
 				<div id="inner-content" class="wrap clearfix">

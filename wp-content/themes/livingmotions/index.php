@@ -1,10 +1,30 @@
 <?php get_header(); ?>
-			<div id="content">
 
+			<div id="content">
+					
 				<div id="inner-content" class="wrap clearfix">
 
 						<div id="main" class="eightcol first clearfix" role="main">
-<a href="<?php echo home_url(); ?>" rel="nofollow"><?php bloginfo('/wp-content/themes/livingmotion/images/header_image.png'); ?></a>
+							
+							<div id="page-content">
+								<h1>
+									<?php echo get_the_title(82); ?>
+								</h1>
+							
+								<p>
+									<?php
+										$my_id = 82;
+										$post_id_82 = get_post($my_id);
+										$content = $post_id_82->post_content;
+										$content = apply_filters('the_content', $content);
+										$content = str_replace(']]>', ']]>', $content);
+										echo $content;
+									?>
+								</p>
+							</div>
+							
+							<h2>Posts</h2>	
+
 							<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
 							<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article">
@@ -19,7 +39,7 @@
 								</header> <!-- end article header -->
 
 								<section class="entry-content clearfix">
-									<?php the_content(); ?>
+									<?php the_excerpt(); ?>
 								</section> <!-- end article section -->
 
 								<footer class="article-footer">
@@ -27,7 +47,7 @@
 
 								</footer> <!-- end article footer -->
 
-								<?php // comments_template(); // uncomment if you want to use them ?>
+								<?php comments_template(); // uncomment if you want to use them ?>
 
 							</article> <!-- end article -->
 

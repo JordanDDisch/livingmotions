@@ -40,6 +40,14 @@
 	</head>
 
 	<body <?php body_class(); ?>>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
 
 		<div id="container">
 
@@ -48,14 +56,18 @@
 				<div id="inner-header" class="wrap clearfix">
 
 					<!-- Get current page object then load featured image at full size -->
-					<div> <?php echo the_post_thumbnail('full'); ?> </div>
+					<?php echo the_post_thumbnail('full'); ?>
+					<?php if (get_page()->ID == 73) echo get_the_post_thumbnail(82, 'full'); ?>
 				
 					<!-- if you'd like to use the site description you can un-comment it below -->
 					<?php // bloginfo('description'); ?>
 
 
 					<nav role="navigation">
-						<?php bones_main_nav(); ?>
+						<div id="nav-bar">
+							<div class="fb-like" data-href="https://www.facebook.com/livingmotions" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+								<?php wp_nav_menu(); ?>
+						</div>
 					</nav>
 
 				</div> <!-- end #inner-header -->
