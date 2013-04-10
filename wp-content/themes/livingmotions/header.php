@@ -56,16 +56,23 @@
 				<div id="inner-header" class="wrap clearfix">
 
 					<!-- Get current page object then load featured image at full size -->
-					<?php echo the_post_thumbnail('full'); ?>
-					<?php if (get_page()->ID == 73) echo get_the_post_thumbnail(82, 'full'); ?>
-				
+					<?php
+										
+					echo the_post_thumbnail('full'); 
+										
+					?>
+					<?php 
+						if (is_front_page()) { 
+							echo get_the_post_thumbnail(82, 'full');  
+						} 
+					?>
+					
 					<!-- if you'd like to use the site description you can un-comment it below -->
 					<?php // bloginfo('description'); ?>
 
 
 					<nav role="navigation">
 						<div id="nav-bar">
-							<div class="fb-like" data-href="https://www.facebook.com/livingmotions" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
 								<?php wp_nav_menu(); ?>
 						</div>
 					</nav>
