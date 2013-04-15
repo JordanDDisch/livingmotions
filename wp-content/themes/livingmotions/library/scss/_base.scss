@@ -27,7 +27,6 @@ Responsive STYLES
 /*********************
 GENERAL STYLES
 *********************/
-
 #content {
 	a {
 		color: black;
@@ -126,7 +125,9 @@ H1, H2, H3, H4, H5 STYLES
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
-	font-weight: 500;
+	font-weight: normal;
+	font-family: $header-fonts;
+	color: $color-h1;
 	/*
 	if you're going to use webfonts, be sure to check your weights
 	http://css-tricks.com/watch-your-font-weight/
@@ -138,37 +139,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	}
 }
 
-h1, .h1 {
-	font-size: 1.5em;
-	line-height: 1.333em;
-	color: $color-h1;
-	font-family: $font-content;
-	font-weight: 700;
-}
-
-h2, .h2 {
-	font-size: 1.5em;
-	line-height: 1.333em;
-	color: $color-h1;
-	font-family: $font-content;
-	font-weight: 700;
-}
-
-h3, .h3 {
-	font-size: 1.125em;
-}
-
-h4, .h4 {
-	font-size: 1.1em;
-	font-weight: 700;
-}
-
-h5, .h5 {
-	font-size: 0.846em;
-	line-height: 2.09em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-}
 
 /*********************
 HEADER STYLES
@@ -296,6 +266,14 @@ POSTS & CONTENT STYLES
 		border-bottom: solid 3px #CCC;
 	}
 	
+	.post {
+		border-bottom: solid 1px #CCC;
+		
+		a {
+			color: $color-blockquote;
+		}
+	}
+	
 	width: 75%;
 	float: right;
 	padding-left: 40px;
@@ -358,7 +336,7 @@ POSTS & CONTENT STYLES
 		/* post meta */
 		.byline {
 			color: #999;
-
+			margin: 0;
 			time {}
 		}
 

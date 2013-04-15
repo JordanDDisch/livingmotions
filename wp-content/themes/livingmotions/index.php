@@ -10,7 +10,22 @@
 								<h1>
 									<?php echo get_the_title(82); ?>
 								</h1>
-							
+								<?php
+								// What page are we on? And what is the pages limit?
+								$max = $wp_query->max_num_pages;
+								$paged = ( get_query_var('paged') > 1 ) ? get_query_var('paged') : 1;
+
+								// Add some parameters for the JS.
+								wp_localize_script(
+									'pbd-alp-load-posts',
+									'pbd_alp',
+									array(
+										'startPage' => $paged,
+										'maxPages' => $max,
+										'nextLink' => next_posts($max, false)
+									)
+								);
+								?>
 								<p>
 									<?php
 										$my_id = 82;
@@ -30,7 +45,7 @@
 
 								<header class="article-header">
 									
-									<h1 class="h2"><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h1>
+									<h2 class="h2"><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
 									<p class="byline vcard"><?php
 										printf(__('Posted <time class="updated" datetime="%1$s" pubdate>%2$s</time> by <span class="author">%3$s</span> <span class="amp">&</span> filed under %4$s.', 'bonestheme'), get_the_time('Y-m-j'), get_the_time(get_option('date_format')), bones_get_the_author_posts_link(), get_the_category_list(', '));
 									?></p>

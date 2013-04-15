@@ -14,8 +14,11 @@ $color-blockquote: $blue;
 /* Fonts */
 
 $helvetica: 'Helvetica Neue', Arial, sans-serif;
-$arial: 'Arial', sans-serif;
+$arial:'Arial', sans-serif;
 $times:'TimesNewRomanPS-ItalicMT', 'Times New Roman', sans-serif;
+$noto:'Noto Sans', sans-serif;
+
+$header-fonts: $noto;
 
 // navbar
 $font-navbar: $helvetica;
