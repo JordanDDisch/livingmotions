@@ -13,9 +13,9 @@
 							
 								<p>
 									<?php
-										$my_id = 82;
-										$post_id_82 = get_post($my_id);
-										$content = $post_id_82->post_content;
+										$my_id = 13;
+										$post_id_13 = get_post($my_id);
+										$content = $post_id_13->post_content;
 										$content = apply_filters('the_content', $content);
 										$content = str_replace(']]>', ']]>', $content);
 										echo $content;

@@ -57,7 +57,7 @@
 
 					<!-- Get current page object then load featured image at full size -->
 					<?php echo the_post_thumbnail('full'); ?>
-					<?php if(is_front_page() ) echo get_the_post_thumbnail(82, 'full'); ?>
+					<?php if(is_front_page() ) echo get_the_post_thumbnail(13, 'full'); ?>
 				
 					<!-- if you'd like to use the site description you can un-comment it below -->
 					<?php // bloginfo('description'); ?>
